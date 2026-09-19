@@ -1,0 +1,54 @@
+# Global AI Jobs
+
+Dataset: https://www.kaggle.com/datasets/datascikhan/global-ai-jobs-2026
+
+Este proyecto tiene como objetivo analizar un conjunto de datos sobre ofertas laborales relacionadas con Inteligencia Artificial y tecnología, buscando obtener información sobre los puestos, empresas, ubicaciones, habilidades requeridas, salarios y modalidades de trabajo.
+
+Para llevar adelante el análisis, el proyecto se desarrolló en distintas etapas. Una de ellas fue la construcción de un Data Warehouse en SQL Server, que permitió organizar y estructurar los datos antes de utilizarlos en Power BI.
+
+## Objetivo
+
+El objetivo principal es explorar el mercado laboral relacionado con AI y responder preguntas como:
+
+* ¿Qué puestos aparecen con mayor frecuencia?
+* ¿Qué habilidades son más solicitadas?
+* ¿Qué empresas publican más ofertas?
+* ¿Cómo se distribuyen las oportunidades según ubicación?
+* ¿Cuál es el salario promedio?
+* ¿Cómo varía el salario según el puesto o la experiencia?
+* ¿Qué porcentaje de las ofertas permite trabajar de forma remota?
+* ¿Cómo evolucionan las publicaciones a lo largo del tiempo?
+
+La intención es utilizar los datos para encontrar patrones y obtener información que pueda ser presentada de manera clara mediante un dashboard.
+
+## Tecnologías utilizadas
+
+* SQL Server: almacenamiento, transformación y modelado de los datos.
+* SQL: consultas, creación y transformación de tablas.
+* Power BI: análisis y visualización.
+* DAX: creación de medidas e indicadores.
+* Power Query: preparación y transformación de datos cuando sea necesario.
+* Git / GitHub: documentación y seguimiento del proyecto.
+
+## Aprendizajes
+
+Durante el desarrollo del proyecto pude trabajar diferentes etapas de un proceso de análisis de datos, desde los datos originales hasta su visualización.
+
+Algunos de los principales conceptos que pude aplicar fueron:
+
+* Limpieza y transformación de datos.
+* Staging.
+* Data Warehousing.
+* Modelado dimensional.
+* Tablas de hechos y dimensiones.
+* Claves primarias y foráneas.
+* Relaciones entre tablas.
+* Relaciones muchos a muchos.
+* Tablas puente.
+* Dimensiones de fechas.
+* SQL Server.
+* DAX.
+* Power BI.
+
+Uno de los aprendizajes más importantes fue entender que el análisis no comienza directamente en el dashboard. La forma en que se organizan y preparan los datos previamente tiene un impacto importante en el análisis que se puede realizar después.
+
